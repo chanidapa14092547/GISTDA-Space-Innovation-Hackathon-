@@ -49,6 +49,6 @@ Instead of monitoring the "inside" of the building, our system monitors the "out
 - **Backend:** ใช้ Python (Streamlit & Pandas) ประมวลผลข้อมูลความเสี่ยงเชิงพื้นที่
 - **Frontend:** ใช้ HTML5, JS & SVG วาดกราฟและแผนที่บนฝั่ง Client โดยตรง ทำให้หน้าเว็บตอบสนองเร็วระดับมิลลิวินาที 
 
-## 📂 ไฟล์ในโปรเจกต์
+##  ไฟล์ในโปรเจกต์
 - `dc_resource_nexus.py`: โค้ดหลักของระบบ Streamlit Dashboard
 - `DC-Resource-Intelligence-Pitch-Deck.pdf`: สไลด์นำเสนอผลงาน (Pitch Deck) ที่ใช้ในวันแข่งจริง
